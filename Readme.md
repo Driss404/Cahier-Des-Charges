@@ -6,6 +6,7 @@
 __détails de l'entreprise__
 
 <img href='./images/v-01.png' />
+![alt text](https://github.com/Driss404/Cahier-Des-Charges/tree/main/images/v-01.png)
 
 __Présentation de l'entreprise__
 
